@@ -24,15 +24,12 @@
     <ClInclude Include="targetver.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="DriveUtility.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="DriveUtility.cpp">
+    <ClCompile Include="DriveUtilityTestConsoleApp.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
